@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Eventos Legais</string>
+    <string name="error">Erro</string>
+    <string name="advice">Atenção</string>
+    <string name="loading">Carregando</string>
+    <string name="wait">Aguarde</string>
+    <string name="date">Data:</string>
+    <string name="price_entry">Entrada:</string>
+    <string name="no_result">Descupe! Nehum registro encontrado</string>
+    <string name="try_again">Tentar Novamente</string>
+    <string name="events">Eventos</string>
+    <string name="event">Evento</string>
+    <string name="your_name">Seu nome:</string>
+    <string name="your_email">Seu email:</string>
+    <string name="do_checking">Fazer checking</string>
+    <string name="do_check_in_sucess">Checing realizado com sucesso!</string>
+    <string name="do_check_in_failed">Não foi possível realizar o login</string>
+    <string name="error_to_get_event_detail">Não foi possível obter os detalhes desse Evento!</string>
+    <string name="check_in">Checkin</string>
+    <string name="please_set_the_email">Informe o e-mail</string>
+    <string name="please_set_the_name">Informe o nome</string>
+    <string name="need_a_connection">O aplicativo precisa de uma conexão com a Internet.</string>
+</resources>
